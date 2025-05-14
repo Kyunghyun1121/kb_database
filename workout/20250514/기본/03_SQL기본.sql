@@ -32,9 +32,9 @@
 
 # employees 테이블 출력시 다음과 같이 나오도록 쿼리를 작성하세요
     SELECT
-        first_name as "이름",
-        gender as "성별",
-        hire_date as "화사 입사일"
+        first_name as '이름',
+        gender as '성별',
+        hire_date as '화사 입사일'
     FROM
         employees;
 
