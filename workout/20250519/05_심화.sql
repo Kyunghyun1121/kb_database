@@ -67,6 +67,7 @@ ALTER TABLE usertbl
 
 USE employees;
 
+DROP VIEW EMPLOYEES_INFO;
 CREATE VIEW EMPLOYEES_INFO AS
     SELECT
         e.emp_no,
