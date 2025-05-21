@@ -1,0 +1,1 @@
+SELECT * FROM jdbc_ex.users;
