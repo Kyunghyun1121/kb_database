@@ -37,8 +37,7 @@ public class JDBCUtil {
         conn.close();
         conn = null;
       }
-    } catch (
-        SQLException e) {
+    } catch (SQLException e) {
       e.printStackTrace();
     }
   }
